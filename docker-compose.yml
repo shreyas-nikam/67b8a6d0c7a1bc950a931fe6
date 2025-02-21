@@ -1,9 +1,9 @@
 version: "3.8"
 
 services:
-  lab_id_service:
+  67b8a6d0c7a1bc950a931fe6_service:
     build: .
-    container_name: lab_id_container
+    container_name: 67b8a6d0c7a1bc950a931fe6_container
     # Adjust your desired external port mapping here. For example:
     # "8502:8501" means the app is internally on 8501, but externally accessible on 8502.
     ports:

@@ -9,4 +9,4 @@ services:
     volumes:
       - .:/app
     command: >
-      bash -c "source venv/bin/activate && streamlit run app.py --server.port=8501 --server.headless=true"
+      bash -c "streamlit run app.py --server.port=8501 --server.headless=true"

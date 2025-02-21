@@ -56,17 +56,3 @@ Users will be able to:
 
 4. **Visualization**:
    - Generate the comparative graphs using Matplotlib or Plotly, ensuring they are well-labeled and user-friendly.
-
-5. **Download Functionality**:
-   - Integrate a feature for users to save their inputs and generated graphs as a downloadable PDF report.
-
-6. **Testing**:
-   - Conduct extensive testing with various input scenarios to ensure the application is accurate and user-friendly.
-
-7. **Deployment**:
-   - Deploy the application using Streamlit sharing platform or another cloud service to make it accessible to the target audience.
-
----
-
-## Conclusion
-The "Alternative Investment Features, Methods, and Structures" Streamlit application will serve as a valuable learning platform for finance students, investment professionals, or anyone interested in understanding alternative investment structures. By visualizing the impact of the catch-up clause, users will gain insights that will enhance their decision-making abilities and deepen their understanding of investment return dynamics.

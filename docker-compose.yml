@@ -1,6 +1,6 @@
 version: "3.8"
 services:
-  67b8a6d0c7a1bc950a931fe6:
+  app:
     build: .
     container_name: 67b8a6d0c7a1bc950a931fe6_container
     ports:
@@ -9,4 +9,4 @@ services:
     volumes:
       - .:/app
     command: >
-bash -c "source venv/bin/activate && streamlit run app.py --server.port=8501 --server.headless=true"
+      bash -c "source venv/bin/activate && streamlit run app.py --server.port=8501 --server.headless=true"

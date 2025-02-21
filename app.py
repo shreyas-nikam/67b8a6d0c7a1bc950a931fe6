@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 st.set_page_config(page_title="QuCreate Streamlit Lab", layout="wide")
-st.sidebar.image("assets/images/company_logo.jpg") # Replace with your logo path if you have one. Or remove if not needed.
+st.sidebar.image("https://www.quantuniversity.com/assets/img/logo5.jpg") # Replace with your logo path if you have one. Or remove if not needed.
 st.sidebar.divider()
 st.title("QuCreate Streamlit Lab: Alternative Investment Features, Methods, and Structures")
 st.divider()
